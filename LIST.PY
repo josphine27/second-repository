@@ -1,4 +1,4 @@
-
+jossphine list items
 #capital_cities=["nairobi","joburg","beijing","cairo","moscow","kampala","dar"]
 #print(capital_cities[6]) 
 
